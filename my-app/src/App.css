@@ -1,0 +1,19 @@
+#carouselExampleSlidesOnly{
+  flex-direction: row;
+    
+}
+
+.page-link{
+  background-color: rgb(34,34,53);
+  color: rgb(248, 219, 5);
+   border: rgb(248, 219, 5); 
+   border-radius: 100px;
+}
+
+.page-link:hover{
+  background-color:beige;
+}
+
+img{
+  max-width:40px;
+}
